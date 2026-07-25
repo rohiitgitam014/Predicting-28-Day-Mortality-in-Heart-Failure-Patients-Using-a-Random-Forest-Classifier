@@ -231,4 +231,4 @@ This project demonstrates the application of machine learning to predict **28-da
 
 Zhang, Z., Cao, L., Chen, R., Zhao, Y., Lv, L., Xu, Z., & Xu, P. (2021). *Electronic healthcare records and external outcome data for hospitalized patients with heart failure*. **Scientific Data, 8(1), 46**. [https://doi.org/10.1038/s41597-021-00835-9](https://doi.org/10.1038/s41597-021-00835-9)
 
-This article is suitable as the foundation for your GitHub repository's `README.md` or a Medium post, while clearly distinguishing the published dataset description from your own machine learning implementation using a Random Forest classifier.
+
