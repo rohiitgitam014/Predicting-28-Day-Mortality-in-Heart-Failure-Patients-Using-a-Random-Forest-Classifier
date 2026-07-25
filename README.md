@@ -177,7 +177,6 @@ The trained model was evaluated using several performance metrics:
 * Precision
 * Recall
 * F1-Score
-* ROC-AUC Score
 * Confusion Matrix
 * Classification Report
 
