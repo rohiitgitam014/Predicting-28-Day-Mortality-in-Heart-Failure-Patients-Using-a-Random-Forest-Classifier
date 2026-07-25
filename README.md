@@ -1,5 +1,9 @@
 # Predicting 28-Day Mortality in Heart Failure Patients Using a Random Forest Classifier: A Machine Learning Approach
 
+<img width="1536" height="1024" alt="ChatGPT Image Jul 25, 2026, 10_35_30 AM" src="https://github.com/user-attachments/assets/52637c34-fbcc-4cdc-aaa8-ff52503d048f" />
+
+
+
 ## Abstract
 
 Heart failure (HF) is one of the leading causes of hospitalization among older adults and is associated with high mortality, frequent hospital readmissions, and increasing healthcare costs worldwide. Early prediction of short-term mortality can assist clinicians in identifying high-risk patients, optimizing treatment strategies, and improving patient outcomes. This project presents a machine learning approach for predicting **28-day mortality** in hospitalized heart failure patients using Electronic Health Records (EHR). The study utilizes a publicly available dataset containing clinical information from **2,008 patients** admitted to **Zigong Fourth People's Hospital, Sichuan Province, China**, between **December 2016 and June 2019**. The dataset contains **168 clinical variables**, including demographic information, vital signs, laboratory measurements, echocardiographic findings, medication records, and follow-up outcomes.
